@@ -1,0 +1,2 @@
+../Core/Src/flash.c:3:19:FLASH_Write	3
+../Core/Src/flash.c:25:19:FLASH_Read	2
