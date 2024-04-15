@@ -1,0 +1,9 @@
+../Core/Src/main.c:166:5:main	88	static
+../Core/Src/main.c:523:6:SystemClock_Config	88	static
+../Core/Src/main.c:569:13:MX_NVIC_Init	8	static
+../Core/Src/main.c:583:12:getButton	16	static
+../Core/Src/main.c:604:6:move_cur_time	16	static
+../Core/Src/main.c:692:6:move_cur_bell	16	static
+../Core/Src/main.c:713:6:HAL_GPIO_EXTI_Callback	16	static
+../Core/Src/main.c:751:6:HAL_UART_RxCpltCallback	16	static
+../Core/Src/main.c:795:6:Error_Handler	4	static,ignoring_inline_asm
