@@ -1,7 +1,0 @@
-../Core/Src/lcm1602.c:34:6:LCD_SendInternal	32	static
-../Core/Src/lcm1602.c:55:6:LCD_SendCommand	16	static
-../Core/Src/lcm1602.c:59:6:LCD_SendData	16	static
-../Core/Src/lcm1602.c:63:6:LCD_Init	16	static
-../Core/Src/lcm1602.c:74:6:LCD_SendString	16	static
-../Core/Src/lcm1602.c:81:6:LCM1602_init	8	static
-../Core/Src/lcm1602.c:85:6:lcd_put_cur	16	static
